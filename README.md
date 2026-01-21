@@ -17,6 +17,5 @@ simpler and more readable maze.
 - Generation stops once start and end nodes are connected
 
 ## How to Run
-```bash
-g++ maze.cpp -o maze
-./maze
+g++ DisjointSet.cpp Maze.cpp MazeGenerator.cpp
+./a.out
